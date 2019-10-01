@@ -1,4 +1,4 @@
-package tdw.controller;
+package td.controller;
 
 import javax.inject.Named;
 import javax.enterprise.context.SessionScoped;
